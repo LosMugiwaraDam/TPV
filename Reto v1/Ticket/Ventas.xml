@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ventas>
+  <venta fecha="20/01/2023">
+    <producto id="2" nombre="Refresco de Espuma S">
+      <cantidad>2</cantidad>
+      <precio>1</precio>
+    </producto>
+  </venta>
+  <venta fecha="20/01/2023">
+    <producto id="2" nombre="Refresco de Espuma S">
+      <cantidad>2</cantidad>
+      <precio>1</precio>
+    </producto>
+  </venta>
+  <venta fecha="20/01/2023">
+    <producto id="12" nombre="">
+      <cantidad>1</cantidad>
+      <precio>2</precio>
+    </producto>
+  </venta>
+  <venta fecha="20/01/2023">
+    <producto>
+      <id>10</id>
+      <nombre>Cangreburger con Queso</nombre>
+      <cantidad>1</cantidad>
+      <precio>1,5</precio>
+    </producto>
+  </venta>
+  <venta fecha="09/02/2023">
+    <producto>
+      <id>23</id>
+      <nombre>Coral Frito L</nombre>
+      <cantidad>2</cantidad>
+      <precio>1,25</precio>
+    </producto>
+    <producto>
+      <id>12</id>
+      <nombre>Doble Cangreburger</nombre>
+      <cantidad>2</cantidad>
+      <precio>2</precio>
+    </producto>
+  </venta>
+  <venta fecha="10/02/2023">
+    <producto>
+      <id>22</id>
+      <nombre>Coral Frito S</nombre>
+      <cantidad>1</cantidad>
+      <precio>1</precio>
+    </producto>
+    <producto>
+      <id>6</id>
+      <nombre>Refresco de Espuma L</nombre>
+      <cantidad>1</cantidad>
+      <precio>1,25</precio>
+    </producto>
+  </venta>
+  <venta fecha="12/02/2023">
+    <producto>
+      <id>6</id>
+      <nombre>Refresco de Espuma L</nombre>
+      <cantidad>1</cantidad>
+      <precio>1,25</precio>
+    </producto>
+    <producto>
+      <id>25</id>
+      <nombre>Aros de Algas</nombre>
+      <cantidad>1</cantidad>
+      <precio>1,5</precio>
+    </producto>
+  </venta>
+</ventas>
